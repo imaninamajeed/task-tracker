@@ -6,8 +6,7 @@ This project is a simple task tracker application designed to help you manage yo
 - [Table of Contents](#table-of-contents)
 - [Code Structure](#code-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Project Page](#project-page)
 
 ## Code Structure
 
@@ -25,10 +24,7 @@ To start the application, open:
 index.html
 ```
 
-## Contributing
+## Project Page
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+You can view the project page at [https://github.com/imaninamajeed/task-tracker](https://github.com/imaninamajeed/task-tracker)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
